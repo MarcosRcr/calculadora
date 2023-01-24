@@ -1,0 +1,176 @@
+body
+{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+.contenedor
+{
+    margin-top: 7%;
+    position: relative;
+    left: 40%;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    width: 500px;
+    height: 700px;
+    border-radius: 10px;
+}
+.result
+{
+    position: relative;
+    top: 3%;
+    left: 3%;
+    height: 100px;
+    width: 90%;
+    border-radius: 15px;
+    border-color: grey;
+    border: 10px;
+    font-size: 50px;
+    background: rgba(233, 233, 233, 0.199);
+    box-shadow: 5px 2px 1px rgba(0, 0, 0, 0.295);
+}
+.control
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: rgba(36, 16, 44, 0.438);
+    font-size: 25px;
+    color: azure;
+    box-shadow: 5px 2px 1px rgba(0, 0, 0, 0.295);
+}
+.controli
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 170px;
+    height: 80px;
+    background-color: rgba(36, 16, 44, 0.438);
+    font-size: 25px;
+    color: azure;
+    box-shadow: 5px 2px 1px rgba(0, 0, 0, 0.295);
+}
+
+.control:active
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: azure;
+    font-size: 25px;
+    color:rgba(36, 16, 44, 0.692);
+}
+.controli:active
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 170px;
+    height: 80px;
+    background-color: azure;
+    font-size: 25px;
+    color:rgba(36, 16, 44, 0.692);
+}
+.limpio
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: rgba(36, 16, 44, 0.438);
+    font-size: 25px;
+    color: azure;
+    box-shadow: 5px 2px 1px rgba(0, 0, 0, 0.295);
+}
+.limpio:active
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: azure;
+    font-size: 25px;
+    color:rgba(36, 16, 44, 0.692);
+}
+.controlp
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: rgba(36, 16, 44, 0.438);
+    font-size: 25px;
+    color: azure;
+    box-shadow: 5px 2px 1px rgba(0, 0, 0, 0.295);
+}
+.controlp:active
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: azure;
+    font-size: 25px;
+    color:rgba(36, 16, 44, 0.692);
+}
+.controlr
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: rgba(36, 16, 44, 0.438);
+    font-size: 25px;
+    color: azure;
+    box-shadow: 5px 2px 1px rgba(0, 0, 0, 0.295);
+}
+.controlr:active
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: relative;
+    border-radius: 60px;
+    border: none;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: azure;
+    font-size: 25px;
+    color:rgba(36, 16, 44, 0.692);
+}
